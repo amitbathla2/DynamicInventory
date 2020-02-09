@@ -1,0 +1,8 @@
+Soft Link Creation:
+
+take backup of /usr/bin/python ------  CHange python to python_bkp
+mv python python_bkp
+
+now create soft link for python 3
+
+ln -s python3.6 python

@@ -8,3 +8,9 @@ now create soft link for python 3
 ln -s python3.6 python
 
 https://stackoverflow.com/questions/26659142/cat-grep-and-cut-translated-to-python/26659479
+
+strip empty line in python:
+https://www.computerhope.com/issues/ch001721.htm
+
+
+

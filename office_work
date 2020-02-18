@@ -6,3 +6,5 @@ mv python python_bkp
 now create soft link for python 3
 
 ln -s python3.6 python
+
+https://stackoverflow.com/questions/26659142/cat-grep-and-cut-translated-to-python/26659479
